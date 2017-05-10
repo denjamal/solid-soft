@@ -1,8 +1,19 @@
 {
   "name": "solid-soft",
-  "description": "",
+  "description": "test node js server",
   "version": "1.0.0",
+  "repository": {
+      "url": "https://github.com/denjamal/solid-soft"
+  },
+  "license": "MIT",
   "engines": {
-    "node": "6.9.4"
+    "node": "6.9.4",
+    "npm": "4.4.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+      "express": "~4.9.8"
   }
 }
