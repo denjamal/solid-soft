@@ -262,11 +262,15 @@ section {
 }
 
 .navbar-right li.active a {
-  background-color: rgba(0,0,0,.2);
+  background-color: rgba(255,255,255,.2);
 }
 
 .navbar-brand h1 {
   margin-top: 5px;
+}
+
+.navbar-brand .img-logo {
+  width: 150px;
 }
 
 /*************************
@@ -286,7 +290,7 @@ section {
 }
 
 .our-services .col-sm-4:hover .service-icon {
-  background-color: #333;
+  background-color: #A3A3A3;
 }
 
 .our-services .col-sm-4 {

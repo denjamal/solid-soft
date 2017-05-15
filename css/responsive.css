@@ -76,6 +76,10 @@
 		padding-top: 10px;
 	}
 
+	.navbar-brand .img-logo {
+		width: 120px;
+	}
+
 	/*services*/
 	section {
 		padding: 45px 0;
