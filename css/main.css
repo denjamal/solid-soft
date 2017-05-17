@@ -847,7 +847,7 @@ section {
 **************************/
 
 #contact {
-  padding-top: 45px;
+  padding-top: 0;
   padding-bottom: 0;
 }
 
@@ -917,15 +917,6 @@ ul.address {
 .footer-top {
   position: relative;
   padding:30px 0
-}
-
-#footer .footer-bottom {
-  background-color: #fff;
-  padding: 20px 0 10px;
-}
-
-#footer .footer-bottom a:hover {
-  text-decoration: underline;
 }
 
 .footer-logo {
