@@ -155,9 +155,9 @@ body #vegas {
   font-size: 14px;
   font-weight: 600;
   padding:14px 40px;
-  border: 1px solid #6e6d6c;
   border-radius: 4px;
   margin-top: 40px;
+  background: rgb(51, 103, 214);
 }
 
 .caption .btn-start:hover {
